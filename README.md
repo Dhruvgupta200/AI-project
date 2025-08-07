@@ -35,6 +35,6 @@ Developed with the help of **Replit AI** to speed up logic writing, bug fixing, 
 
 ### 💻 Locally
 ```bash
-git clone <clone URI>
+git clone https://github.com/Dhruvgupta200/AI-project.git
 cd AI-project
 python main.py
